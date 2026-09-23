@@ -52,6 +52,10 @@ Siber güvenlik, ağ yönetimi, işletim sistemleri güvenliği ve kriptografi.
 
 ## Sertifikalar
 
+Google
+
+- Google AI Essentials
+
 BTK Akademi
 
 - Bilgi Teknolojilerine Giriş
