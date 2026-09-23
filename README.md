@@ -4,10 +4,14 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/yigittaner.com-0B0F17?style=for-the-badge&logo=googlechrome&logoColor=34D399&labelColor=111827)](https://yigittaner.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logo=linkedin&logoColor=34D399&labelColor=111827)](https://www.linkedin.com/in/taneryigit/)
-[![E-posta](https://img.shields.io/badge/E--posta-0B0F17?style=for-the-badge&logo=gmail&logoColor=34D399&labelColor=111827)](mailto:taneryigit.it@gmail.com)
-[![Özgeçmiş](https://img.shields.io/badge/Özgeçmiş-0B0F17?style=for-the-badge&logo=adobeacrobatreader&logoColor=34D399&labelColor=111827)](https://www.yigittaner.com/cv.html)
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=680&lines=Kamp%C3%BCs+altyap%C4%B1s%C4%B1n%C4%B1+ayakta+tutuyorum;Windows+%C2%B7+A%C4%9F+%C2%B7+Donan%C4%B1m+%C2%B7+Sistem;150+WPM+%C2%B7+10FastFingers+T%C3%BCrkiye+Top+10" alt="Taner Yiğit hakkında animasyonlu satırlar" />
+
+<br>
+
+[![Website](https://img.shields.io/badge/yigittaner.com-0A0614?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD&labelColor=1A102C)](https://yigittaner.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0614?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=1A102C)](https://www.linkedin.com/in/taneryigit/)
+[![E-posta](https://img.shields.io/badge/E--posta-0A0614?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=1A102C)](mailto:taneryigit.it@gmail.com)
+[![Özgeçmiş](https://img.shields.io/badge/Özgeçmiş-0A0614?style=for-the-badge&logo=adobeacrobatreader&logoColor=C4B5FD&labelColor=1A102C)](https://www.yigittaner.com/cv.html)
 
 </div>
 
@@ -41,10 +45,10 @@ Siber güvenlik, ağ yönetimi, işletim sistemleri güvenliği ve kriptografi.
 
 | | |
 | --- | --- |
+| **[Flyworm](https://github.com/taneryigitxl/flyworm)** | Windows hızlandırma ve debloat uygulaması. [Kurulum](https://github.com/taneryigitxl/flyworm/releases/latest) |
+| **[Tondy Pc Doctor](https://github.com/taneryigitxl/tondy-pc-doctor)** | Windows tanı ve sorun giderme masaüstü uygulaması. [Kurulum](https://github.com/taneryigitxl/tondy-pc-doctor/releases/latest) |
 | **[Nita Yollarda](https://yigittaner.online/)** | Web tabanlı interaktif oyun. Kullanıcı etkileşimi ve oyun mekaniği üzerine kurulu. |
-| **[Project Gun](https://yigittaner.online/project-gun/)** | Babylon.js ile tarayıcıda çalışan 3D FPS. Beş zombi dalgası ve ganimet sistemi var. [Kaynak](https://github.com/taneryigitxl/proje1/tree/main/project-gun) |
 | **[yigittaner.com](https://yigittaner.com)** | Kişisel site. Operasyon geçmişi, projeler ve özgeçmiş burada. [Kaynak](https://github.com/taneryigitxl/Website) |
-| **[Tondy Pc Doctor](https://github.com/taneryigitxl/tondy-pc-doctor)** | Windows tanı ve sorun giderme masaüstü uygulaması. |
 
 ## Sertifikalar
 
@@ -67,14 +71,16 @@ BTK Akademi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=taneryigitxl&show_icons=true&hide_border=true&bg_color=0B0F17&title_color=34D399&icon_color=34D399&text_color=E5E7EB&ring_color=10B981" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taneryigitxl&layout=compact&hide_border=true&bg_color=0B0F17&title_color=34D399&text_color=E5E7EB" alt="En çok kullanılan diller" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taneryigitxl&show_icons=true&hide_border=true&bg_color=0A0614&title_color=C4B5FD&icon_color=A78BFA&text_color=EDE9FE&ring_color=8B5CF6" alt="GitHub istatistikleri" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taneryigitxl&layout=compact&hide_border=true&bg_color=0A0614&title_color=C4B5FD&text_color=EDE9FE" alt="En çok kullanılan diller" />
 
 </div>
 
 <br>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5B21B6,50:7C3AED,100:A78BFA&section=footer" width="100%" alt="" />
 
 Site, LinkedIn veya e-posta üzerinden yazabilirsin.
 
