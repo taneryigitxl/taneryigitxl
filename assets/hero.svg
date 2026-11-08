@@ -7,18 +7,37 @@
  <radialGradient id="light"><stop stop-color="#B4A48A" stop-opacity=".2"/><stop offset="1" stop-color="#B4A48A" stop-opacity="0"/></radialGradient>
  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B8A98E" stroke-opacity=".06"/></pattern>
 </defs>
+<style>
+@keyframes orbitClockwise { to { transform: rotate(360deg); } }
+@keyframes orbitCounter { to { transform: rotate(-360deg); } }
+@keyframes auraPulse { 0%,100% { opacity:.36; transform:scale(.96); } 50% { opacity:.85; transform:scale(1.045); } }
+@keyframes riseIn { 0% { opacity:0; transform:translateY(18px); } 22%,100% { opacity:1; transform:translateY(0); } }
+@keyframes lineDraw { 0% { stroke-dashoffset:530; } 25%,100% { stroke-dashoffset:0; } }
+@keyframes sparkPulse { 0%,100% { opacity:.12; } 50% { opacity:.85; } }
+.orbit-a { transform-origin:1003px 206px; animation:orbitClockwise 24s linear infinite; }
+.orbit-b { transform-origin:1003px 206px; animation:orbitCounter 32s linear infinite; }
+.aura { transform-origin:1003px 206px; animation:auraPulse 5.5s ease-in-out infinite; }
+.intro { animation:riseIn 8s ease-out infinite; }
+.intro-later { animation:riseIn 8s ease-out .2s infinite both; }
+.animated-line { stroke-dasharray:530; stroke-dashoffset:530; animation:lineDraw 8s ease-out infinite; }
+.spark { animation:sparkPulse 4s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+.orbit-a,.orbit-b,.aura,.intro,.intro-later,.animated-line,.spark,.ty-glow,.ty-sheen { animation:none !important; opacity:1; }
+.animated-line {stroke-dashoffset:0;}
+}
+</style>
 <rect width="1280" height="420" fill="url(#bg)"/>
 <rect width="1280" height="420" fill="url(#grid)"/>
-<circle cx="990" cy="202" r="350" fill="url(#light)"/>
+<circle class="aura" cx="990" cy="202" r="350" fill="url(#light)"/>
 <rect x="32" y="32" width="1216" height="356" rx="20" fill="none" stroke="#B8AB91" stroke-opacity=".22"/>
 <path d="M80 95H215M80 103H150" stroke="#B8AB91" stroke-opacity=".6" stroke-width="2"/>
 <text x="80" y="151" fill="#B8AB91" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="5">PERSONAL PORTFOLIO / 2026</text>
-<text x="78" y="240" fill="#F8F4EE" font-family="Georgia,'Times New Roman',serif" font-size="81" font-weight="bold">Taner Yiğit</text>
-<text x="82" y="283" fill="#D5C8B2" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3.8">IT  /  SYSTEMS  /  SOFTWARE</text>
-<path d="M80 318H605" stroke="#B8AB91" stroke-opacity=".45"/>
+<text class="intro" x="78" y="240" fill="#F8F4EE" font-family="Georgia,'Times New Roman',serif" font-size="81" font-weight="bold">Taner Yiğit</text>
+<text class="intro-later" x="82" y="283" fill="#D5C8B2" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3.8">IT  /  SYSTEMS  /  SOFTWARE</text>
+<path class="animated-line" d="M80 318H605" stroke="#B8AB91" stroke-opacity=".45"/>
 <text x="82" y="348" fill="#9F998E" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.4">BUILDING RELIABLE SYSTEMS &amp; USEFUL TOOLS</text>
-<circle cx="1003" cy="206" r="146" fill="none" stroke="#C5B89E" stroke-opacity=".25"/>
-<circle cx="1003" cy="206" r="128" fill="none" stroke="#C5B89E" stroke-opacity=".13"/>
+<g class="orbit-a"><circle cx="1003" cy="206" r="146" fill="none" stroke="#C5B89E" stroke-opacity=".28" stroke-dasharray="135 23 14 45 9 38"/><circle class="spark" cx="1003" cy="60" r="3.2" fill="#E4D6B9"/></g>
+<g class="orbit-b"><circle cx="1003" cy="206" r="128" fill="none" stroke="#C5B89E" stroke-opacity=".24" stroke-dasharray="8 22 110 35"/><circle class="spark" cx="1131" cy="206" r="2.5" fill="#E4D6B9"/></g>
 <circle cx="1003" cy="206" r="104" fill="#171613" stroke="#D3C7B1" stroke-opacity=".35"/>
 <svg x="919" y="123" width="168" height="168" viewBox="-72 -45 1400 1400">
   <title>Taner Yiğit</title>
