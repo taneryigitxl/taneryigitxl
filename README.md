@@ -1,91 +1,106 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="Taner Yiğit — BT Operasyon Uzmanı" width="100%" />
+<img src="assets/hero.svg" alt="Taner Yiğit — IT & Software Developer" width="100%" />
 
-<br>
+<br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=680&lines=Kamp%C3%BCs+altyap%C4%B1s%C4%B1n%C4%B1+ayakta+tutuyorum;Windows+%C2%B7+A%C4%9F+%C2%B7+Donan%C4%B1m+%C2%B7+Sistem;150+WPM+%C2%B7+10FastFingers+T%C3%BCrkiye+Top+10" alt="Taner Yiğit hakkında animasyonlu satırlar" />
+**BT Operasyonları · Sistem & Ağ · Yazılım Geliştirme · Oyun Geliştirme**
 
-<br>
+Sistemleri çalışır, yazılımları kullanışlı, deneyimleri akılda kalıcı hale getirmeye odaklanıyorum.
 
-[![Website](https://img.shields.io/badge/yigittaner.com-0A0614?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD&labelColor=1A102C)](https://yigittaner.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0614?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=1A102C)](https://www.linkedin.com/in/taneryigit/)
-[![E-posta](https://img.shields.io/badge/E--posta-0A0614?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=1A102C)](mailto:taneryigit.it@gmail.com)
+<br />
 
+<a href="https://www.yigittaner.com/"><img src="https://img.shields.io/badge/PORTFOLYO-171613?style=for-the-badge&logo=googlechrome&logoColor=D9CFBD&labelColor=C4B69B" alt="Portfolyo" /></a>
+<a href="https://www.linkedin.com/in/taneryigit/"><img src="https://img.shields.io/badge/LINKEDIN-171613?style=for-the-badge&logo=linkedin&logoColor=D9CFBD&labelColor=C4B69B" alt="LinkedIn" /></a>
+<a href="mailto:taneryigit.it@gmail.com"><img src="https://img.shields.io/badge/İLETİŞİM-171613?style=for-the-badge&logo=gmail&logoColor=D9CFBD&labelColor=C4B69B" alt="E-posta" /></a>
 
 </div>
 
-<br>
+---
 
-İstanbul Nişantaşı Üniversitesi'nde **Bilgi İşlem Uzman Yardımcısı** olarak çalışıyorum. Kampüsteki donanım, ağ cihazları ve uç nokta sistemlerinin günlük operasyonunu yönetiyor, son kullanıcı desteğini hızlandırıyorum. Altyapının ayakta kalması ve fiziksel arızanın kısa sürede kapanması işin merkezi.
+### 01 / Hakkımda
 
-`150 WPM` · `%99 doğruluk` · `10FastFingers Türkiye Top 10`
+İstanbul Nişantaşı Üniversitesi'nde **Bilgi İşlem Uzman Yardımcısı** olarak çalışıyorum. Günlük işimin odağında **Windows sistemleri, ağ altyapısı, donanım, uç nokta yönetimi ve kullanıcı desteği** var. Bunun yanında gerçek ihtiyaçlara yönelik masaüstü uygulamalar, web projeleri ve oyunlar geliştiriyorum.
 
-## Odak
+`IT Support` · `System Administration` · `Networking` · `Software Development` · `Game Development`
 
-| Ağ ve altyapı | Sistem ve destek | Kod |
-| --- | --- | --- |
-| Ağ temelleri, switching, VLAN, TCP/IP | Windows istemci, Active Directory, Hyper-V, PowerShell, donanım onarımı, sistem izleme | JavaScript, Babylon.js, HTML, CSS |
+### 02 / Seçilmiş projeler
 
-## Şu an
+Web sitemdeki gerçek proje görselleri ve logolarıyla hazırlanan seçki. **Tüm projeleri** [portfolyomda inceleyebilirsin](https://www.yigittaner.com/#projeler).
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://www.yigittaner.com/#projeler"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/nyta-game-900.webp" alt="NYTA — 2D aksiyon RPG oynanışı" width="100%" /></a><br />
+  <strong>NYTA</strong> &nbsp;·&nbsp; <code>Geliştiriliyor</code><br />
+  Unity 6 ve C# ile geliştirilen, karanlık piksel dünyasında geçen hikâye odaklı 2D aksiyon RPG. PC ve mobil hedefli.<br />
+  <sub>Unity 6 · C# · Pixel Art</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/taneryigitxl/flyworm"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimizasyon uygulaması" width="100%" /></a><br />
+  <strong><a href="https://github.com/taneryigitxl/flyworm">Flyworm</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
+  Windows 11 için optimizasyon, gereksiz yükleri azaltma ve sistem ince ayarlarını kolaylaştırma.<br />
+  <sub>Optimizasyon · Windows</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/taneryigitxl/HyDesk"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/hydesk-crop-700.webp" alt="HyDesk uzak masaüstü uygulaması" width="100%" /></a><br />
+  <strong><a href="https://github.com/taneryigitxl/HyDesk">HyDesk</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
+  Cihaz numarası veya IP adresiyle bağlantı kurarak uzaktan teknik destek sağlamaya odaklanan masaüstü uygulaması.<br />
+  <sub>Remote Desktop · Networking</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/taneryigitxl/tondy-pc-doctor"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor sistem tanılama uygulaması" width="100%" /></a><br />
+  <strong><a href="https://github.com/taneryigitxl/tondy-pc-doctor">Tondy PC Doctor</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
+  Sistem verilerini inceleyerek arıza tespitini ve sorun gidermeyi hızlandırmaya yardımcı olan tanılama aracı.<br />
+  <sub>Diagnostics · Troubleshooting</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://yigittaner.online/"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda tarayıcı oyunu" width="100%" /></a><br />
+  <strong><a href="https://yigittaner.online/">Nita Yollarda</a></strong> &nbsp;·&nbsp; <code>Canlı oyun</code><br />
+  Tarayıcı üzerinden doğrudan oynanabilen, JavaScript ile geliştirilmiş etkileşimli 2D platform oyunu.<br />
+  <sub>JavaScript · Web Game</sub>
+</td>
+<td width="50%" valign="top">
+  <a href="https://www.yigittaner.com/"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/og-image-signature.jpg" alt="Taner Yiğit kişisel portfolyo" width="100%" /></a><br />
+  <strong><a href="https://www.yigittaner.com/">yigittaner.com</a></strong> &nbsp;·&nbsp; <code>Portfolyo</code><br />
+  İş deneyimimi, projelerimi ve teknik odak alanlarımı bir araya getiren kişisel web sitesi.<br />
+  <sub>HTML · CSS · JavaScript</sub>
+</td>
+</tr>
+</table>
+
+### 03 / Teknik odak
+
+| Sistem & altyapı | Yazılım & geliştirme |
+| :--- | :--- |
+| Windows · Active Directory · PowerShell | C# · JavaScript · HTML · CSS |
+| Ağ temelleri · TCP/IP · DNS · DHCP | Unity 6 · Git · GitHub |
+| Donanım · Uç nokta · Teknik destek | Web ve masaüstü uygulamaları |
+
+### 04 / Deneyim & eğitim
 
 **Bilgi İşlem Uzman Yardımcısı** · İstanbul Nişantaşı Üniversitesi · 2026 — devam ediyor
 
-Kampüs içi son kullanıcı desteği, donanım arıza tespiti ve ağ cihazlarının fiziksel ile yazılımsal operasyonu.
+**Siber Güvenlik** · İstanbul Kent Üniversitesi · 2024–2026 · Mezun
 
-## Eğitim
+**Google AI Essentials** · **Cisco Ağ Temelleri** ve diğer eğitimleri [web sitemden](https://www.yigittaner.com/#sertifikalar) inceleyebilirsin.
 
-**Bilişim Güvenliği Teknolojisi** · İstanbul Kent Üniversitesi · 2024 — 2026
-
-Siber güvenlik, ağ yönetimi, işletim sistemleri güvenliği ve kriptografi.
-
-**Lise** · Sadabad Anadolu Lisesi · 2019 — 2023
-
-## Kişisel (Websitem üzerinden projelerimi görüntüleyebilisiniz.)
-
-| | |
-| --- | --- |
-| **[Nita Yollarda](https://yigittaner.online/)** | Web tabanlı interaktif oyun. Kullanıcı etkileşimi ve oyun mekaniği üzerine kurulu. |
-| **[yigittaner.com](https://yigittaner.com)** | Kişisel site. Operasyon geçmişi, projeler ve özgeçmiş burada.
-
-## Sertifikalar
-
-Google
-
-- Google AI Essentials
-
-BTK Akademi
-
-- Bilgi Teknolojilerine Giriş
-- İşletim Sistemlerine Giriş
-- Cisco Ağ Temelleri
-- İleri Ağ Teknolojileri
-
-## Araçlar
+### 05 / GitHub & iletişim
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=windows,powershell,dotnet,cs,js,html,css,git,github,vscode&theme=dark)](https://yigittaner.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taneryigitxl&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D9CFBD&text_color=DED6C8&langs_count=6" alt="GitHub açık kaynak depolarında kullanılan diller" height="150" />
 
-</div>
+<br />
 
-## GitHub
+**Birlikte yeni bir şey geliştirelim.**
 
-<div align="center">
+[Portfolyo](https://www.yigittaner.com/) · [LinkedIn](https://www.linkedin.com/in/taneryigit/) · [E-posta](mailto:taneryigit.it@gmail.com)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=taneryigitxl&show_icons=true&hide_border=true&bg_color=0A0614&title_color=C4B5FD&icon_color=A78BFA&text_color=EDE9FE&ring_color=8B5CF6" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taneryigitxl&layout=compact&hide_border=true&bg_color=0A0614&title_color=C4B5FD&text_color=EDE9FE" alt="En çok kullanılan diller" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5B21B6,50:7C3AED,100:A78BFA&section=footer" width="100%" alt="" />
-
-Site, LinkedIn veya e-posta üzerinden yazabilirsin.
-
-[yigittaner.com](https://yigittaner.com) · [LinkedIn](https://www.linkedin.com/in/taneryigit/) · [taneryigit.it@gmail.com](mailto:taneryigit.it@gmail.com)
+<sub>© 2026 Taner Yiğit · Minimal tasarım · Gerçek projeler</sub>
 
 </div>
