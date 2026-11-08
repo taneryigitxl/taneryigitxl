@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Taner Yiğit — IT &amp; Software Developer</title>
+<desc id="desc">Siyah ve şampanya tonlarında, web sitesiyle aynı TY monogramının kullanıldığı profil kapağı.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A0A0A"/><stop offset="1" stop-color="#171511"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAF6EB"/><stop offset=".45" stop-color="#D0C3A9"/><stop offset="1" stop-color="#86775F"/></linearGradient>
+ <radialGradient id="light"><stop stop-color="#B4A48A" stop-opacity=".2"/><stop offset="1" stop-color="#B4A48A" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B8A98E" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1280" height="420" fill="url(#bg)"/>
+<rect width="1280" height="420" fill="url(#grid)"/>
+<circle cx="990" cy="202" r="350" fill="url(#light)"/>
+<rect x="32" y="32" width="1216" height="356" rx="20" fill="none" stroke="#B8AB91" stroke-opacity=".22"/>
+<path d="M80 95H215M80 103H150" stroke="#B8AB91" stroke-opacity=".6" stroke-width="2"/>
+<text x="80" y="151" fill="#B8AB91" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="5">PERSONAL PORTFOLIO / 2026</text>
+<text x="78" y="240" fill="#F8F4EE" font-family="Georgia,'Times New Roman',serif" font-size="81" font-weight="bold">Taner Yiğit</text>
+<text x="82" y="283" fill="#D5C8B2" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="3.8">IT  /  SYSTEMS  /  SOFTWARE</text>
+<path d="M80 318H605" stroke="#B8AB91" stroke-opacity=".45"/>
+<text x="82" y="348" fill="#9F998E" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1.4">BUILDING RELIABLE SYSTEMS &amp; USEFUL TOOLS</text>
+<circle cx="1003" cy="206" r="146" fill="none" stroke="#C5B89E" stroke-opacity=".25"/>
+<circle cx="1003" cy="206" r="128" fill="none" stroke="#C5B89E" stroke-opacity=".13"/>
+<circle cx="1003" cy="206" r="104" fill="#171613" stroke="#D3C7B1" stroke-opacity=".35"/>
+<!-- Exact source emblem from the portfolio asset, shown inside the same monochrome/gold frame. -->
+<image x="917" y="121" width="172" height="172" href="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/logo-ty.png"/>
+<text x="1003" y="372" fill="#B9AC95" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="3">T Y / IDENTITY</text>
+</svg>
