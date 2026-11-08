@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/yigittaner.com-0A0614?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD&labelColor=1A102C)](https://yigittaner.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0614?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=1A102C)](https://www.linkedin.com/in/taneryigit/)
 [![E-posta](https://img.shields.io/badge/E--posta-0A0614?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=1A102C)](mailto:taneryigit.it@gmail.com)
-[![Özgeçmiş](https://img.shields.io/badge/Özgeçmiş-0A0614?style=for-the-badge&logo=adobeacrobatreader&logoColor=C4B5FD&labelColor=1A102C)](https://www.yigittaner.com/cv.html)
+
 
 </div>
 
@@ -46,7 +46,7 @@ Siber güvenlik, ağ yönetimi, işletim sistemleri güvenliği ve kriptografi.
 | | |
 | --- | --- |
 | **[Nita Yollarda](https://yigittaner.online/)** | Web tabanlı interaktif oyun. Kullanıcı etkileşimi ve oyun mekaniği üzerine kurulu. |
-| **[yigittaner.com](https://yigittaner.com)** | Kişisel site. Operasyon geçmişi, projeler ve özgeçmiş burada. [Kaynak](https://github.com/taneryigitxl/Website) |
+| **[yigittaner.com](https://yigittaner.com)** | Kişisel site. Operasyon geçmişi, projeler ve özgeçmiş burada.
 
 ## Sertifikalar
 
