@@ -31,13 +31,13 @@ Web sitemdeki gerçek proje görselleri ve logolarıyla hazırlanan seçki. **T�
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/#projeler"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/nyta-game-900.webp" alt="NYTA — 2D aksiyon RPG oynanışı" width="100%" /></a><br />
+  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/nyta-game-900.webp" alt="NYTA — 2D aksiyon RPG oynanışı" width="100%" /></a><br />
   <strong>NYTA</strong> &nbsp;·&nbsp; <code>Geliştiriliyor</code><br />
   Unity 6 ve C# ile geliştirilen, karanlık piksel dünyasında geçen hikâye odaklı 2D aksiyon RPG. PC ve mobil hedefli.<br />
   <sub>Unity 6 · C# · Pixel Art</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/taneryigitxl/flyworm"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimizasyon uygulaması" width="100%" /></a><br />
+  <a href="https://github.com/taneryigitxl/flyworm"><img src="https://www.yigittaner.com/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimizasyon uygulaması" width="100%" /></a><br />
   <strong><a href="https://github.com/taneryigitxl/flyworm">Flyworm</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   Windows 11 için optimizasyon, gereksiz yükleri azaltma ve sistem ince ayarlarını kolaylaştırma.<br />
   <sub>Optimizasyon · Windows</sub>
@@ -45,13 +45,13 @@ Web sitemdeki gerçek proje görselleri ve logolarıyla hazırlanan seçki. **T�
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/taneryigitxl/HyDesk"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/hydesk-crop-700.webp" alt="HyDesk uzak masaüstü uygulaması" width="100%" /></a><br />
+  <a href="https://github.com/taneryigitxl/HyDesk"><img src="https://www.yigittaner.com/assets/hydesk-crop-700.webp" alt="HyDesk uzak masaüstü uygulaması" width="100%" /></a><br />
   <strong><a href="https://github.com/taneryigitxl/HyDesk">HyDesk</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   Cihaz numarası veya IP adresiyle bağlantı kurarak uzaktan teknik destek sağlamaya odaklanan masaüstü uygulaması.<br />
   <sub>Remote Desktop · Networking</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/taneryigitxl/tondy-pc-doctor"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor sistem tanılama uygulaması" width="100%" /></a><br />
+  <a href="https://github.com/taneryigitxl/tondy-pc-doctor"><img src="https://www.yigittaner.com/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor sistem tanılama uygulaması" width="100%" /></a><br />
   <strong><a href="https://github.com/taneryigitxl/tondy-pc-doctor">Tondy PC Doctor</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   Sistem verilerini inceleyerek arıza tespitini ve sorun gidermeyi hızlandırmaya yardımcı olan tanılama aracı.<br />
   <sub>Diagnostics · Troubleshooting</sub>
@@ -59,13 +59,13 @@ Web sitemdeki gerçek proje görselleri ve logolarıyla hazırlanan seçki. **T�
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://yigittaner.online/"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda tarayıcı oyunu" width="100%" /></a><br />
+  <a href="https://yigittaner.online/"><img src="https://www.yigittaner.com/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda tarayıcı oyunu" width="100%" /></a><br />
   <strong><a href="https://yigittaner.online/">Nita Yollarda</a></strong> &nbsp;·&nbsp; <code>Canlı oyun</code><br />
   Tarayıcı üzerinden doğrudan oynanabilen, JavaScript ile geliştirilmiş etkileşimli 2D platform oyunu.<br />
   <sub>JavaScript · Web Game</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/"><img src="https://raw.githubusercontent.com/taneryigitxl/yigittaner.com/main/assets/og-image-signature.jpg" alt="Taner Yiğit kişisel portfolyo" width="100%" /></a><br />
+  <a href="https://www.yigittaner.com/"><img src="https://www.yigittaner.com/assets/og-image-signature.jpg" alt="Taner Yiğit kişisel portfolyo" width="100%" /></a><br />
   <strong><a href="https://www.yigittaner.com/">yigittaner.com</a></strong> &nbsp;·&nbsp; <code>Portfolyo</code><br />
   İş deneyimimi, projelerimi ve teknik odak alanlarımı bir araya getiren kişisel web sitesi.<br />
   <sub>HTML · CSS · JavaScript</sub>
