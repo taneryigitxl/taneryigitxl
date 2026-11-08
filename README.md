@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Taner Yiğit — IT & Software Developer" width="100%" />
+<img src="assets/hero-animated.gif" alt="Taner Yiğit — IT & Software Developer" width="100%" />
 
 <br />
 
