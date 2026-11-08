@@ -1,0 +1,53 @@
+name: Repair animated profile banner
+on:
+  push:
+    paths:
+      - '.github/workflows/render-profile-banner.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Install rendering libraries
+        run: python -m pip install --disable-pip-version-check pillow cairosvg
+      - name: Render and validate animated GIF
+        run: |
+          python - <<'PY'
+          from PIL import Image, ImageDraw, ImageSequence
+          import cairosvg, io, math, os
+          svg=open("assets/hero.svg",encoding="utf-8").read()
+          # Render the original site-branded SVG as the static base.
+          png=cairosvg.svg2png(bytestring=svg.encode(),output_width=800,output_height=263)
+          base=Image.open(io.BytesIO(png)).convert("RGB")
+          frames=[]
+          cx,cy=round(1003*800/1280),round(206*263/420)
+          for i in range(20):
+              im=base.copy()
+              d=ImageDraw.Draw(im,"RGBA")
+              for radius,direction in [(92,1),(80,-1)]:
+                  offset=(i*18*direction)%360
+                  for start in range(0,360,90):
+                      d.arc((cx-radius,cy-radius,cx+radius,cy+radius),
+                            start+offset,start+offset+42,fill=(230,191,133,175),width=2)
+              angle=i*2*math.pi/20
+              x=cx+92*math.cos(angle);y=cy+92*math.sin(angle)
+              d.ellipse((x-3,y-3,x+3,y+3),fill=(255,234,195,240))
+              frames.append(im.quantize(colors=128,method=Image.Quantize.MEDIANCUT))
+          path="assets/hero-animated.gif"
+          frames[0].save(path,save_all=True,append_images=frames[1:],duration=110,loop=0,optimize=True,disposal=2)
+          check=Image.open(path)
+          assert check.n_frames>=15, f"Expected animated GIF, got {check.n_frames}"
+          for f in ImageSequence.Iterator(check): f.convert("RGB").load()
+          print(f"Verified {check.n_frames} GIF frames, {os.path.getsize(path)} bytes")
+          PY
+      - name: Commit verified animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/hero-animated.gif
+          git diff --cached --quiet || (git commit -m "Repair animated profile GIF with validated frames" && git push)
