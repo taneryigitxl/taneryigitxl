@@ -41,13 +41,10 @@ Siber güvenlik, ağ yönetimi, işletim sistemleri güvenliği ve kriptografi.
 
 **Lise** · Sadabad Anadolu Lisesi · 2019 — 2023
 
-## Projeler
+## Kişisel (Websitem üzerinden projelerimi görüntüleyebilisiniz.)
 
 | | |
 | --- | --- |
-| **[Flyworm](https://github.com/taneryigitxl/flyworm)** | Windows hızlandırma ve debloat uygulaması. [Kurulum](https://github.com/taneryigitxl/flyworm/releases/latest) |
-| **[Tondy Pc Doctor](https://github.com/taneryigitxl/tondy-pc-doctor)** | Windows tanı ve sorun giderme masaüstü uygulaması. [Kurulum](https://github.com/taneryigitxl/tondy-pc-doctor/releases/latest) |
-| **[HyDesk](https://github.com/taneryigitxl/HyDesk)** | Açık kaynak, hafif uzak masaüstü uygulaması. Rust + Tauri ile Windows için yazıldı. |
 | **[Nita Yollarda](https://yigittaner.online/)** | Web tabanlı interaktif oyun. Kullanıcı etkileşimi ve oyun mekaniği üzerine kurulu. |
 | **[yigittaner.com](https://yigittaner.com)** | Kişisel site. Operasyon geçmişi, projeler ve özgeçmiş burada. [Kaynak](https://github.com/taneryigitxl/Website) |
 
