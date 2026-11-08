@@ -31,13 +31,13 @@ A selection of projects featuring their original visuals from my website. [Explo
 <table>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/nyta-game-900.webp" alt="NYTA — 2D action RPG gameplay" width="100%" /></a><br />
+  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/nyta-game-900.webp" alt="NYTA — 2D action RPG gameplay" width="400" height="200" /></a><br />
   <strong>NYTA</strong> &nbsp;·&nbsp; <code>In Development</code><br />
   A story-driven 2D action RPG set in a dark pixel-art world, built with Unity 6 and C#. Targeting PC and mobile platforms.<br />
   <sub>Unity 6 · C# · Pixel Art</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/taneryigitxl/flyworm"><img src="https://www.yigittaner.com/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimization app" width="100%" /></a><br />
+  <a href="https://github.com/taneryigitxl/flyworm"><img src="https://www.yigittaner.com/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimization app" width="400" height="200" /></a><br />
   <strong><a href="https://github.com/taneryigitxl/flyworm">Flyworm</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   A Windows 11 optimization tool designed to reduce unnecessary system overhead and simplify performance tuning.<br />
   <sub>Optimization · Windows</sub>
@@ -45,13 +45,13 @@ A selection of projects featuring their original visuals from my website. [Explo
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://github.com/taneryigitxl/HyDesk"><img src="https://www.yigittaner.com/assets/hydesk-crop-700.webp" alt="HyDesk remote desktop app" width="100%" /></a><br />
+  <a href="https://github.com/taneryigitxl/HyDesk"><img src="https://www.yigittaner.com/assets/hydesk-crop-700.webp" alt="HyDesk remote desktop app" width="400" height="200" /></a><br />
   <strong><a href="https://github.com/taneryigitxl/HyDesk">HyDesk</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   A desktop application focused on remote technical support through device IDs or IP-based connections.<br />
   <sub>Remote Desktop · Networking</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://github.com/taneryigitxl/tondy-pc-doctor"><img src="https://www.yigittaner.com/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor system diagnostics app" width="100%" /></a><br />
+  <a href="https://github.com/taneryigitxl/tondy-pc-doctor"><img src="https://www.yigittaner.com/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor system diagnostics app" width="400" height="200" /></a><br />
   <strong><a href="https://github.com/taneryigitxl/tondy-pc-doctor">Tondy PC Doctor</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   A system diagnostics tool that analyzes device information to help identify issues and streamline troubleshooting.<br />
   <sub>Diagnostics · Troubleshooting</sub>
@@ -59,13 +59,13 @@ A selection of projects featuring their original visuals from my website. [Explo
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://yigittaner.online/"><img src="https://www.yigittaner.com/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda browser game" width="100%" /></a><br />
+  <a href="https://yigittaner.online/"><img src="https://www.yigittaner.com/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda browser game" width="400" height="200" /></a><br />
   <strong><a href="https://yigittaner.online/">Nita Yollarda</a></strong> &nbsp;·&nbsp; <code>Play Online</code><br />
   An interactive 2D platform game built with JavaScript and playable directly in a web browser.<br />
   <sub>JavaScript · Web Game</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/"><img src="assets/ChatGPT%20G%C3%B6rseli%208%20Kas%202026%2012_10_10.png" alt="Taner Yiğit personal portfolio website" width="100%" /></a><br />
+  <a href="https://www.yigittaner.com/"><img src="assets/ChatGPT%20G%C3%B6rseli%208%20Kas%202026%2012_10_10.png" alt="Taner Yiğit personal portfolio website" width="400" height="200" /></a><br />
   <strong><a href="https://www.yigittaner.com/">yigittaner.com</a></strong> &nbsp;·&nbsp; <code>Portfolio</code><br />
   My personal website showcasing professional experience, projects, and technical interests.<br />
   <sub>HTML · CSS · JavaScript</sub>
@@ -88,19 +88,3 @@ A selection of projects featuring their original visuals from my website. [Explo
 **Cybersecurity** · Istanbul Kent University · 2024–2026 · Graduated
 
 Explore my **Google AI Essentials**, **Cisco Networking Fundamentals**, and other certificates [on my website](https://www.yigittaner.com/#sertifikalar).
-
-### 05 / GitHub & Contact
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taneryigitxl&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=D9CFBD&text_color=DED6C8&langs_count=6" alt="Programming languages used across my public GitHub repositories" height="150" />
-
-<br />
-
-**Let's build something useful together.**
-
-[Portfolio](https://www.yigittaner.com/) · [LinkedIn](https://www.linkedin.com/in/taneryigit/) · [Email](mailto:taneryigit.it@gmail.com)
-
-<sub>© 2026 Taner Yiğit · Minimal design · Real projects</sub>
-
-</div>
