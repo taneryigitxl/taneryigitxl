@@ -65,7 +65,7 @@ Web sitemdeki gerçek proje görselleri ve logolarıyla hazırlanan seçki. **T�
   <sub>JavaScript · Web Game</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/"><img src="https://www.yigittaner.com/assets/og-image-signature.jpg" alt="Taner Yiğit kişisel portfolyo" width="100%" /></a><br />
+  <a href="https://www.yigittaner.com/"><img src="https://www.yigittaner.com/assets/hero-logo.webp" alt="Taner Yiğit kişisel portfolyo" width="100%" /></a><br />
   <strong><a href="https://www.yigittaner.com/">yigittaner.com</a></strong> &nbsp;·&nbsp; <code>Portfolyo</code><br />
   İş deneyimimi, projelerimi ve teknik odak alanlarımı bir araya getiren kişisel web sitesi.<br />
   <sub>HTML · CSS · JavaScript</sub>
