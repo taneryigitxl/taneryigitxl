@@ -37,30 +37,30 @@ A selection of projects featuring their original visuals from my website. [Explo
   <sub>Unity 6 · C# · Pixel Art</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimization app" width="400" height="200" /></a><br />
-  <strong><a href="https://www.yigittaner.com/#projeler">Flyworm</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
+  <a href="https://www.yigittaner.com/?project=nyta#projeler"><img src="https://www.yigittaner.com/assets/flyworm-crop-700.webp" alt="Flyworm Windows optimization app" width="400" height="200" /></a><br />
+  <strong><a href="https://www.yigittaner.com/?project=flyworm#projeler">Flyworm</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   A Windows 11 optimization tool designed to reduce unnecessary system overhead and simplify performance tuning.<br />
   <sub>Optimization · Windows</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/hydesk-crop-700.webp" alt="HyDesk remote desktop app" width="400" height="200" /></a><br />
-  <strong><a href="https://www.yigittaner.com/#projeler">HyDesk</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
+  <a href="https://www.yigittaner.com/?project=flyworm#projeler"><img src="https://www.yigittaner.com/assets/hydesk-crop-700.webp" alt="HyDesk remote desktop app" width="400" height="200" /></a><br />
+  <strong><a href="https://www.yigittaner.com/?project=hydesk#projeler">HyDesk</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   A desktop application focused on remote technical support through device IDs or IP-based connections.<br />
   <sub>Remote Desktop · Networking</sub>
 </td>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor system diagnostics app" width="400" height="200" /></a><br />
-  <strong><a href="https://www.yigittaner.com/#projeler">Tondy PC Doctor</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
+  <a href="https://www.yigittaner.com/?project=hydesk#projeler"><img src="https://www.yigittaner.com/assets/tondy-pc-doctor-crop-700.webp" alt="Tondy PC Doctor system diagnostics app" width="400" height="200" /></a><br />
+  <strong><a href="https://www.yigittaner.com/?project=tondy#projeler">Tondy PC Doctor</a></strong> &nbsp;·&nbsp; <code>Windows</code><br />
   A system diagnostics tool that analyzes device information to help identify issues and streamline troubleshooting.<br />
   <sub>Diagnostics · Troubleshooting</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://www.yigittaner.com/#projeler"><img src="https://www.yigittaner.com/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda browser game" width="400" height="200" /></a><br />
-  <strong><a href="https://www.yigittaner.com/#projeler">Nita Yollarda</a></strong> &nbsp;·&nbsp; <code>Play Online</code><br />
+  <a href="https://www.yigittaner.com/?project=tondy#projeler"><img src="https://www.yigittaner.com/assets/nita-yollarda-game-900.webp" alt="Nita Yollarda browser game" width="400" height="200" /></a><br />
+  <strong><a href="https://www.yigittaner.com/?project=nita#projeler">Nita Yollarda</a></strong> &nbsp;·&nbsp; <code>Play Online</code><br />
   An interactive 2D platform game built with JavaScript and playable directly in a web browser.<br />
   <sub>JavaScript · Web Game</sub>
 </td>
